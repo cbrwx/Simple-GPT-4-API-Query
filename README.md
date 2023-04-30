@@ -10,7 +10,7 @@ Important: You must have access to the GPT-4 API before this code will work.
 - Jupyter Notebook or Jupyter Lab installed
 - Install the required libraries:
 ```
-pip install ipywidgets requests
+!pip install ipywidgets requests
 ```
 
 # Usage
